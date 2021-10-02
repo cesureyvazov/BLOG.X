@@ -1,0 +1,7 @@
+.container .row .col-12 .item {
+    color: black;
+}
+
+.container .row .col-12 .item img {
+    height: 200px;
+}

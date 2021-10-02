@@ -1,0 +1,339 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.yazi {
+    background-color: rgb(106, 245, 13);
+    color: blue;
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.yazi .h2 {
+    color: blue;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    left: 40px;
+    top: 76px
+}
+
+.contact h3 {
+    background-color: royalblue;
+    position: absolute;
+    top: 400px;
+    left: 950px;
+    width: 100px;
+    height: 55px;
+    color: black
+}
+
+.contact .y1 {
+    background-color: aquamarine;
+    position: absolute;
+    top: 450px;
+    left: 950px;
+    width: 326px;
+    height: 50px;
+}
+
+.contact .y2 {
+    position: absolute;
+    top: 480px;
+    left: 950px;
+    width: 500px;
+    height: 550px;
+}
+
+.contact .y3 {
+    position: absolute;
+    top: 510px;
+    left: 950px;
+    width: 500px;
+    height: 550px;
+}
+
+.contact .y4 {
+    position: absolute;
+    top: 540px;
+    left: 950px;
+    width: 500px;
+    height: 550px;
+}
+
+.i h3 {
+    background-color: rgba(33, 194, 18, 0.562);
+    width: 287px;
+    height: 430px;
+    position: absolute;
+    top: 180px;
+    left: 464px
+}
+
+.color {
+    background-color: goldenrod;
+    height: 120px;
+}
+
+.reycolor {
+    background-color: gray;
+    height: 52px;
+    width: 53%;
+    position: absolute;
+    top: 1000px;
+    left: 274px;
+}
+
+.r2 {
+    color: white;
+    background-color: rgba(39, 12, 160, 0.39);
+    width: 50px;
+    position: absolute;
+    top: 1010px;
+    left: 583px;
+}
+
+.r1 {
+    color: white;
+    background-color: green;
+    width: 80px;
+    position: absolute;
+    top: 1010px;
+    left: 805px;
+}
+
+.r3 {
+    color: white;
+    background-color: rgb(146, 16, 16);
+    width: 80px;
+    position: absolute;
+    top: 1010px;
+    left: 305px;
+}
+
+.elaqe h3 {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 1282px;
+    height: 32px;
+    position: absolute;
+    top: 868px;
+}
+
+.no1 {
+    background-color: darkblue;
+    width: 1258px;
+    height: 317px;
+    position: absolute;
+    top: 910px
+}
+
+.no2 {
+    position: absolute;
+    top: 930px;
+}
+
+.no3 {
+    position: absolute;
+    top: 950px;
+}
+
+.no4 {
+    position: absolute;
+    top: 970px;
+}
+
+.no5 {
+    position: absolute;
+    top: 990px;
+}
+
+.n3VNCb {
+    position: absolute;
+    top: 954px;
+    left: 897px;
+    width: 309.6667px;
+    height: 304px;
+}
+
+.reng {
+    background-color: #000;
+    position: absolute;
+    top: 920px;
+    left: 744px;
+    width: 534.6667px;
+    height: 354px;
+}
+
+.reng2 {
+    background-color: #000;
+    position: absolute;
+    top: 1062px;
+    left: -70px;
+    width: 814.6667px;
+    height: 210px;
+}
+
+.rg_iQ4LuWd {
+    position: absolute;
+    top: 1079px;
+    left: 50px;
+}
+
+.rg_i1Q4LuWd {
+    position: absolute;
+    top: 1079px;
+    left: 430px;
+}
+
+.shef {
+    position: absolute;
+    background-color: gray;
+    width: 1281px;
+    height: 899px;
+}
+
+.sef1 {
+    width: 68%;
+    height: 331px;
+    border: 3px solid #ffffff;
+    padding: 10px;
+    background-color: black;
+    color: white
+}
+
+.about {
+    position: absolute;
+    top: 31px;
+    left: 212px;
+}
+
+.sef2 {
+    width: 68%;
+    height: 331px;
+    border: 3px solid #ffffff;
+    padding: 10px;
+    background-color: black;
+    color: white
+}
+
+.about2 {
+    position: absolute;
+    top: 31px;
+    left: 212px;
+}
+
+.sef3 {
+    width: 68%;
+    height: 331px;
+    border: 3px solid #ffffff;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.about3 {
+    position: absolute;
+    top: 31px;
+    left: 212px;
+}
+
+.about {
+    position: absolute;
+    top: 116px;
+}
+
+.about2 {
+    position: absolute;
+    top: 471px;
+}
+
+.mudir {
+    width: 102%;
+    height: 148px;
+    border: 3px solid #ffffff;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.foto3 {
+    position: absolute;
+    top: 743px;
+    height: 122px;
+    width: 259px;
+    left: 243px;
+}
+
+.i img {
+    width: 262.25px;
+    height: 349px;
+    position: absolute;
+    left: 477px;
+    top: 250px;
+}
+
+.HTML {
+    color: darkorange;
+    background-color: white;
+    width: 394px;
+    height: 300px;
+    position: absolute;
+    top: 79px;
+    left: 882px;
+}
+
+.HTML :hover {
+    color: white;
+    background-color: darkorange;
+    transition: 5s;
+    -webkit-transition: 5s;
+    -moz-transition: 5s;
+    -ms-transition: 5s;
+    -o-transition: 5s;
+}
+
+.css {
+    color: white;
+    background-color: darkblue;
+    width: 394px;
+    height: 142px;
+    position: absolute;
+    top: 426px;
+    left: 882px;
+}
+
+.css :hover {
+    color: darkblue;
+    background-color: white;
+    transition: 5s;
+    -webkit-transition: 5s;
+    -moz-transition: 5s;
+    -ms-transition: 5s;
+    -o-transition: 5s;
+}
+
+.js {
+    color: white;
+    background-color: yellow;
+    width: 394px;
+    height: 261px;
+    position: absolute;
+    top: 615px;
+    left: 882px;
+}
+
+.js :hover {
+    color: yellow;
+    background-color: white;
+    transition: 5s;
+    -webkit-transition: 5s;
+    -moz-transition: 5s;
+    -ms-transition: 5s;
+    -o-transition: 5s;
+}
+
