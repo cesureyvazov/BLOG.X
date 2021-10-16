@@ -337,3 +337,6 @@
     -o-transition: 5s;
 }
 
+.navbar-inverse {
+    margin: 0px;
+}
