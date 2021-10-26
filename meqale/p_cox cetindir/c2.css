@@ -44,29 +44,16 @@ body {
     background-color: white;
 }
 
-.container .row .col-4 .item .rg_iQ4LuWd {
-    width: 48%;
+.col-4 {
+    height: 400px;
 }
 
-.container .row .col-4 .item h4 {
-    margin: 10px 103px;
+.container .row .col-4 .mence h3 {
     color: white;
+    margin: 40px 116px;
 }
 
-.container .row .col-4 .item h4 a {
-    text-decoration: none;
-}
-
-.container .row .col-4 .item img {
-    margin: 10px 103px;
-}
-
-.container .row .col-4 {
-    width: 398px;
-    height: 200px;
-}
-
-.container .row .col-4 .item img {
-    height: 100%;
-    margin: 0px;
+.container .row .col-4 .mence p {
+    color: white;
+    width: 20px;
 }
